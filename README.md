@@ -5,7 +5,7 @@
 
 ## Uruchomienie
 1. Otwórz Jupyter Notebook: `jupyter notebook`
-2. Otwórz plik `notebooks/covid_projekt.ipynb`.
+2. Otwórz plik `notebooks/covid_analysis.ipynb`.
 3. Uruchom wszystkie komórki.
 
 ## Wymagania
